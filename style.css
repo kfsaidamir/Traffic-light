@@ -121,6 +121,10 @@ section {
     height: 17vh;
 }
 
+.buttons > button {
+    margin: 5px;
+}
+
 .red {
     color: #222;
     height: 5vh;
